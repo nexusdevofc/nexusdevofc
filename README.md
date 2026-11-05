@@ -58,8 +58,9 @@
 <img src="https://raw.githubusercontent.com/NexusDev20/NexusDev20/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexusdevofc/nexusdevofc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexusdevofc/nexusdevofc/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nexusdevofc/nexusdevofc/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/nexusdevofc/nexusdevofc/output/snake.svg" alt="Snake animation" />
+
+</div>
