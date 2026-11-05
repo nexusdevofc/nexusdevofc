@@ -1,6 +1,7 @@
 <h2 data-importer="text" align="center">👨🏻‍💻 SOBRE MIM</h2>
 
 <div data-importer="texto" align="center"><a>
+
 👋🏻 Olá! Me chamo Nexus Dev.
   
 💻 Sou um Desenvolvedor Júnior apaixonado por tecnologia e em constante evolução.
