@@ -60,6 +60,14 @@
 
 <div align="center">
 
+![Estatísticas](./profile-summary-card-output/github_dark/3-stats.svg)
+![Linguagens](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![Commits por linguagem](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+</div>
+
+<div align="center">
+
 
 <img src="https://raw.githubusercontent.com/nexusdevofc/nexusdevofc/output/snake.svg" alt="Snake animation" />
 
