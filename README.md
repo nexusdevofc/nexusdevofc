@@ -52,23 +52,13 @@
 
 <h2 data-importer="text" align="center">📊 ESTATÍSTICAS</h2>
 
-
-<div data-importer="stats" align="center">
-<img src="https://raw.githubusercontent.com/NexusDev20/NexusDev20/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://raw.githubusercontent.com/NexusDev20/NexusDev20/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
-
 <div align="center">
 
 ![Estatísticas](./profile-summary-card-output/github_dark/3-stats.svg)
 ![Linguagens](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
 ![Commits por linguagem](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
 </div>
 
 <div align="center">
-
-
 <img src="https://raw.githubusercontent.com/nexusdevofc/nexusdevofc/output/snake.svg" alt="Snake animation" />
-
 </div>
