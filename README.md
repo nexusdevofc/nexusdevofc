@@ -19,7 +19,7 @@
 <h2 data-importer="text" align="center"></h2>
 
 <div data-importer="socials" align="center">
-  <a href="https://x.com/nexusdevofc" target="_blank">
+  <a href="https://x.com/nexusdevoficial" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
 </a>
   <a href="https://youtube.com/@nexusdevoficial" target="_blank">
