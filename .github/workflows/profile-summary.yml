@@ -20,3 +20,24 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Traduzir cards para português
+        run: |
+          git pull --rebase || true
+          find profile-summary-card-output -name '*.svg' -exec sed -i \
+            -e 's/Total Stars/Total de estrelas/g' \
+            -e 's/Total Commits/Total de commits/g' \
+            -e 's/Total PRs/Total de PRs/g' \
+            -e 's/Total Issues/Total de issues/g' \
+            -e 's/Contributed to/Contribuiu para/g' \
+            -e 's/Top Languages by Repo/Linguagens por repositório/g' \
+            -e 's/Top Languages by Commit/Linguagens por commit/g' \
+            -e 's/There are no/Não há/g' \
+            -e 's/repos to show/repositórios para mostrar/g' \
+            -e 's/commits to show/commits para mostrar/g' \
+            -e 's/\bStats\b/Estatísticas/g' \
+            {} +
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          git diff --staged --quiet || (git commit -m "Traduz cards para português" && git push)
