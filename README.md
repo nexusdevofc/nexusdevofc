@@ -8,7 +8,7 @@
 
 🌐 Estou focado em consolidar meus conhecimentos em desenvolvimento Front-End e Mobile, construindo projetos práticos e aplicando boas práticas de código.
 
-🌱 Atualmente aprendendo: Arquitetura de software e ecossistemas avançados.
+🌱 Arquitetura de software e ecossistemas avançados.
 
 🎯 Meu objetivo: Evoluir tecnicamente, colaborar em projetos desafiadores e crescer na carreira de desenvolvimento.
 
