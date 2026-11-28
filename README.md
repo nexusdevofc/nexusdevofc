@@ -4,7 +4,7 @@
 
 👋🏻 Olá! Me chamo Nexus Dev.
   
-💻 Sou um Desenvolvedor Júnior apaixonado por tecnologia e em constante evolução.
+💻 Sou um Dev apaixonado por tecnologia e em constante evolução.
 
 🌐 Estou focado em consolidar meus conhecimentos em desenvolvimento Front-End e Mobile, construindo projetos práticos e aplicando boas práticas de código.
 
