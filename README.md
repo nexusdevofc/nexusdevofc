@@ -16,7 +16,7 @@
 </a>
 </div>
 
-<h2 data-importer="text" align="center"></h2>
+<h2 data-importer="text" align="center">🌐 PLATAFORMAS DIGITAIS</h2>
 
 <div data-importer="socials" align="center">
   <a href="https://youtube.com/@nexusdevoficial" target="_blank">
